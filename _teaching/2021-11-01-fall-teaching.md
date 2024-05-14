@@ -4,7 +4,7 @@ collection: teaching
 type: "Advanced course"
 permalink: /teaching/2021-11-01-fall-teaching
 venue: "Uppsala University, IT department, division of scientific computing"
-date: Fall 2021 & Fall 2022
+date: 2021-11-01
 location: "Uppsala, Sweden"
 ---
 

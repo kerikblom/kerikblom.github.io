@@ -4,7 +4,7 @@ collection: teaching
 type: "Basic course"
 permalink: /teaching/2023-09-01-fall-teaching
 venue: "Uppsala University, IT department, division of scientific computing"
-date: Fall 2023
+date: 2023-09-01
 location: "Uppsala, Sweden"
 ---
 
