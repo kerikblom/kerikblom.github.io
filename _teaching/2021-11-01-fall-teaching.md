@@ -2,7 +2,7 @@
 title: "Course: Applied Finite Element Methods"
 collection: teaching
 type: "Advanced course"
-permalink: /teaching/2021-2022-fall-teaching
+permalink: /teaching/2021-11-01-fall-teaching
 venue: "Uppsala University, IT department, division of scientific computing"
 date: Fall 2021 & Fall 2022
 location: "Uppsala, Sweden"
