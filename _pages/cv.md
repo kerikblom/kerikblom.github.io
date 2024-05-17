@@ -17,15 +17,15 @@ Education
 
 Work experience
 ======
-* 2023-2024: President SIAM student chapter at Uppsala University
+* 2023-2024: President of the SIAM student chapter at Uppsala University
   * Organised excursions for students of applied mathematics to
     companies: https://www.it.uu.se/student/siam_chapter
 
-* 2021-2026 (expected): Communicator
+* 2021-2026 (expected): Communications officer
   * Division of Scientific Computing, Uppsala University
   * Responsible for the digital archiving of division publications
 
-* 2022-2023: Research project supervision
+* 2022-2023: Supervision, research projects
   * Uppsala University
   * 1 M.S., 1 B.S., and 1 project course
   
